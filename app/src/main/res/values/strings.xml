@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TransparentAccounts</string>
+    <string name="title_activity_list_accounts">Accounts</string>
+    <string name="title_detail_activity">Detail</string>
+    <string name="show_transactions">Show transactions</string>
+    <string name="title_transactions_activity">Transactions</string>
+    <string name="api_error">Error during API call: </string>
+    <string name="load_more">Load more</string>
+    <string name="slash">/</string>
+    <string name="balance">Balance: </string>
+    <string name="note">Note: </string>
+    <string name="iban">IBAN: </string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="amount">Amount:</string>
+    <string name="due_date">Due date:</string>
+    <string name="constant_symbol">Constant symbol:</string>
+</resources>
